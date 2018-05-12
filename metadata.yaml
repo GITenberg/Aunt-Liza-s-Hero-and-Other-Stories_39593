@@ -23,6 +23,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/3050
     wikipedia: http://en.wikipedia.org/wiki/Annie_Fellows_Johnston
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/39593#Aunt-Liza-s-Hero-and-Other-Stories
 gutenberg_issued: '2012-05-02'
 gutenberg_type: Text
 identifiers:
